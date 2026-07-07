@@ -1,0 +1,299 @@
+{
+  "exportedAt": "2026-07-06T06:49:43.479Z",
+  "sunsetDeleteAt": "2026-07-08",
+  "user": {
+    "profileHandle": "himanshubalani",
+    "firstName": "Himanshu",
+    "lastName": "Balani"
+  },
+  "collections": [
+    {
+      "id": "COLHNN66MO9J8BQPQ1PAN86KKGG7Q8",
+      "title": "My Bookshelf",
+      "type": "BOOKS",
+      "createdAt": "2024-01-09T06:20:35.507Z",
+      "updatedAt": "2024-09-15T15:24:55.210Z",
+      "itemsCount": 3,
+      "items": [
+  {
+    "id": "GrYsEAAAQBAJ",
+    "title": "Project Hail Mary",
+    "image": "http://books.google.com/books/content?id=GrYsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "type": "BOOKS",
+    "description": "From the author of The Martian, a lone astronaut wakes up alone on a spacecraft with no memory of who he is or how he got there, and must solve an impossible scientific mystery to save Earth from an extinction-level threat.",
+    "author": "Andy Weir", 
+    "createdAt": "2026-07-07T15:31:00.000Z"
+  },
+  {
+    "id": "YXWPEAAAQBAJ",
+    "title": "Kafka on the Shore",
+    "image": "http://books.google.com/books/content?id=YXWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "type": "BOOKS",
+    "description": "A metaphysical novel following a teenage runaway, Kafka Tamura, and an aging man, Nakata, whose mysterious connection leads them through a world where cats talk, fish fall from the sky, and spirits cross between realms.",
+    "author": "Haruki Murakami",
+    "createdAt": "2026-07-07T15:31:00.000Z"
+  },
+        {
+          "id": "7f83adda-ed72-4809-a59a-12ec50b4e71a",
+          "title": "Creative Selection",
+          "image": "http://books.google.com/books/content?id=nntJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          "type": "BOOKS",
+          "description": "* WALL STREET JOURNAL BESTSELLER * An insider's account of Apple's creative process during the golden years of Steve Jobs. Hundreds of millions of people use Apple products every day; several thousand work on Apple's campus in Cupertino, California; but only a handful sit at the drawing board. Creative Selection recounts the life of one of the few who worked behind the scenes, a highly-respected software engineer who worked in the final years of the Steve Jobs era—the Golden Age of Apple. Ken Kocienda offers an inside look at Apple’s creative process. For fifteen years, he was on the ground floor of the company as a specialist, directly responsible for experimenting with novel user interface concepts and writing powerful, easy-to-use software for products including the iPhone, the iPad, and the Safari web browser. His stories explain the symbiotic relationship between software and product development for those who have never dreamed of programming a computer, and reveal what it was like to work on the cutting edge of technology at one of the world's most admired companies. Kocienda shares moments of struggle and success, crisis and collaboration, illuminating each with lessons learned over his Apple career. He introduces the essential elements of innovation—inspiration, collaboration, craft, diligence, decisiveness, taste, and empathy—and uses these as a lens through which to understand productive work culture. An insider's tale of creativity and innovation at Apple, Creative Selection shows readers how a small group of people developed an evolutionary design model, and how they used this methodology to make groundbreaking and intuitive software which countless millions use every day.",
+          "author": "Ken Kocienda",
+          "createdAt": "2024-08-28T06:20:35.880Z"
+        },
+        {
+          "id": "ffdc929e-4230-4a10-9f01-62644b0965d5",
+          "title": "Hell Yeah Or No What's Worth Doing",
+          "image": "https://books.google.co.in/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          "type": "BOOKS",
+          "description": "Hell Yeah or No what's worth doing Hell Yeah or No what's worth doing Managing our time efficiently is something most of us have struggled with at some point during our personal or professional lives and so in this video I'm going to reveal the 10 principles and ideas I use to manage time as effectively as I can in my daily life. Wow ! this is so true ... i always believed in this ! coz if you're not hell yeah you will be \"hell no\" very soon which leads to \"do i have to's\" and then to Mondays ! :) Book Summary: thoughts around what's worth doing, fixing faulty thinking, and making things happen.",
+          "author": "Siverrs Derek",
+          "createdAt": "2024-08-28T06:19:09.695Z"
+        },
+        {
+          "id": "9ff9520b-579f-4779-b075-d1bcebe15cbd",
+          "title": "Algorithms to Live By",
+          "image": "http://books.google.com/books/content?id=Ydn_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          "type": "BOOKS",
+          "description": "'Algorithms to Live By' looks at the simple, precise algorithms that computers use to solve the complex 'human' problems that we face, and discovers what they can tell us about the nature and origin of the mind.",
+          "author": "Brian Christian, Tom Griffiths",
+          "createdAt": "2024-01-09T06:20:36.078Z"
+        }
+      ]
+    },
+    {
+      "id": "COLHLKNAMD6D9D9GD29D76RKM6LNEN",
+      "title": "Must Watch Videos",
+      "type": "VIDEOS",
+      "createdAt": "2024-09-10T17:44:47.572Z",
+      "updatedAt": "2024-11-21T14:51:59.687Z",
+      "itemsCount": 7,
+      "items": [
+        {
+          "id": "d411f730-ee43-418c-ad12-af728d2a076b",
+          "title": "How AI Stole the ✨ Sparkles ✨ Emoji",
+          "url": "https://youtu.be/g-pG79LOtMw?si=o6J_DfRyFh14iUcp",
+          "image": "https://i.ytimg.com/vi/g-pG79LOtMw/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2024-11-21T14:51:59.687Z"
+        },
+        {
+          "id": "6448cfd4-58f3-47cc-af5a-cd283dcd2ac6",
+          "title": "Some Rough Advice for the \"Real World\"",
+          "url": "https://youtu.be/OCO8eoDWqHQ?si=sVO2rv-nsBqXCNeV",
+          "image": "https://i.ytimg.com/vi/OCO8eoDWqHQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShGMA8=&rs=AOn4CLAipXF8NVoMwtWOstrhKtbJCsIKMg",
+          "type": "VIDEOS",
+          "createdAt": "2024-09-27T04:57:56.497Z"
+        },
+        
+        {
+          "id": "dffd4802-7812-4be9-8472-f723a5a3b825",
+          "title": "How AIs, like ChatGPT, Learn",
+          "url": "https://youtu.be/R9OHn5ZF4Uo?si=S686TKWWg4TM3tmY",
+          "image": "https://i.ytimg.com/vi/R9OHn5ZF4Uo/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2024-09-10T17:57:46.826Z"
+        },
+        {
+          "id": "9dd05584-fc46-47c4-be11-101fbc888945",
+          "title": "How Metric Paper Works & The Whole of the Universe",
+          "url": "https://youtu.be/pUF5esTscZI?si=sg65NRWxW9HJDeeO",
+          "image": "https://i.ytimg.com/vi/pUF5esTscZI/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2024-09-10T17:51:20.269Z"
+        },
+        {
+          "id": "0c378014-13b0-4828-8e8c-8c7438d8b948",
+          "title": "how dark mode killed good design",
+          "url": "https://youtu.be/Ieq5sNEoc1E?si=gOh4qiRFVdtWcLyz",
+          "image": "https://i.ytimg.com/vi/Ieq5sNEoc1E/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2024-09-10T17:50:02.265Z"
+        },
+        {
+          "id": "1ac7c183-e0f9-4e46-a712-36f415d51306",
+          "title": "How To Make Videos Like a PRO!",
+          "url": "https://youtu.be/yLiBehpMhbw?si=jbxF1M5uhp7amUrm",
+          "image": "https://i.ytimg.com/vi/yLiBehpMhbw/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2024-09-10T17:44:48.151Z"
+        }
+      ]
+    },
+    {
+      "id": "COLHBABMGK6AMOB6B1EGO8QMR8P9AQ",
+      "title": "Podcasts",
+      "type": "PODCASTS",
+      "createdAt": "2024-09-10T17:41:08.438Z",
+      "updatedAt": "2024-09-10T17:42:17.466Z",
+      "itemsCount": 2,
+      "items": [
+        {
+          "id": "6dec495f-eb1c-4b9f-99aa-7ba29ba78ec5",
+          "title": "The Supermassive Podcast",
+          "url": "https://open.spotify.com/show/1nykBLhdQDT5IWAXLJm48l?si=zBsZirZUTb6eUzq6usA0LA",
+          "image": "https://i.scdn.co/image/ab6765630000ba8adeaf1147010848aa372b1853",
+          "type": "PODCASTS",
+          "createdAt": "2024-09-10T17:42:17.465Z"
+        },
+        {
+          "id": "d456602c-6a3a-4754-b096-2345d2432ed2",
+          "title": "The Craft Of Open Source",
+          "url": "https://open.spotify.com/show/5fazVpZpvD33ipGt928lvm?si=IzM97qgGRGOsjfma5Ym7wA",
+          "image": "https://i.scdn.co/image/ab6765630000ba8aa6eaaba5942389ea27d98d60",
+          "type": "PODCASTS",
+          "createdAt": "2024-09-10T17:41:09.009Z"
+        }
+      ]
+    },
+    {
+      "id": "COLHP69MR9KR7L99O2M9MAP8JQ6KJD",
+      "title": "My articles with ToolJet",
+      "type": "LINKS",
+      "createdAt": "2025-01-27T14:51:09.557Z",
+      "updatedAt": "2025-07-11T06:38:17.835Z",
+      "itemsCount": 11,
+      "items": [
+        {
+          "id": "1bd97ee5-ecbf-4c64-abef-03b79308ccab",
+          "title": "Building an Inventory Management Application Using ToolJetDB",
+          "url": "https://blog.tooljet.com/building-an-inventory-management-application-using-tooljetdb/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/Frame-2087329057-1.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:53:07.401Z"
+        },
+        {
+          "id": "95e38710-94dc-4478-99a9-481c9e252c2c",
+          "title": "Build an AI Model Comparison App with ToolJet & Portkey",
+          "url": "https://blog.tooljet.com/build-an-ai-model-comparison-app-with-tooljet-portkey/",
+          "image": "https://i0.wp.com/blog.tooljet.com/wp-content/uploads/2025/01/Frame-25-1.png?fit=2048%2C1026&ssl=1",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:57.426Z"
+        },
+        {
+          "id": "e509465f-dc29-46aa-9930-3b11433bfc1f",
+          "title": "Building a Legal Document Review & Approval Application with ToolJetDB",
+          "url": "https://blog.tooljet.com/building-a-legal-document-review-approval-application-with-tooljetdb/",
+          "image": "https://i0.wp.com/blog.tooljet.com/wp-content/uploads/2024/12/Frame-2087329059.png?fit=2048%2C1026&ssl=1",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:45.344Z"
+        },
+        {
+          "id": "b9723c62-f6f7-49d0-aa7d-619e2e956476",
+          "title": "Building an AI-Assisted ATS with Supabase and OpenAI",
+          "url": "https://blog.tooljet.com/building-an-ai-assisted-ats-with-supabase-and-openai/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/Frame-2087329041.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:34.707Z"
+        },
+        {
+          "id": "3d62e612-4667-46b7-b435-472fd4183f94",
+          "title": "Building a Fleet Management System with ToolJetDB",
+          "url": "https://blog.tooljet.com/building-a-fleet-management-system-with-tooljetdb/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/Frame-2087329060-1.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:25.823Z"
+        },
+        {
+          "id": "58a854cd-bc0e-4077-a1b1-764d125819ea",
+          "title": "Retool Review: Complete Analysis of Low-Code Platform",
+          "url": "https://blog.tooljet.com/retool-review/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2023/11/retool-review-1.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:13.522Z"
+        },
+        {
+          "id": "d930dda6-4133-43ed-8f49-1cf0aad4707c",
+          "title": "Top 7 AI Tools to Enhance Your Engineering Workflow",
+          "url": "https://blog.tooljet.com/top-7-ai-tools-to-enhance-your-engineering-workflow/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/tooljet-ai-tools-blog-2.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:52:02.308Z"
+        },
+        {
+          "id": "5038c53c-ea61-4f8e-87e8-c3a6303b36b1",
+          "title": "Top 10 Database Management Platforms to Use in 2025 - ToolJet",
+          "url": "https://blog.tooljet.com/top-10-database-management-platforms-to-use-in-2025-tooljet/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/Blog-banner-DBMS.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:51:53.801Z"
+        },
+        {
+          "id": "078673f1-fa5d-42a0-9615-69d7a9618a64",
+          "title": "What is Cloud Application Development?",
+          "url": "https://blog.tooljet.com/what-is-cloud-application-development/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/11/Frame-2087329013.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:51:40.687Z"
+        },
+        {
+          "id": "b39f747b-4c94-4488-8d02-ccb18e9648a7",
+          "title": "Mendix vs ToolJet: A Comparison",
+          "url": "https://blog.tooljet.com/mendix-platform-vs-tooljet/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/12/tooljet-v-mendix.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:51:31.312Z"
+        },
+        {
+          "id": "f2f4ca23-f37c-4049-8496-b1c5d63880a0",
+          "title": "Which Low-Code Platform to choose? Appian vs ToolJet",
+          "url": "https://blog.tooljet.com/appian-software-vs-tooljet/",
+          "image": "https://blog.tooljet.com/wp-content/uploads/2024/11/Appian-vs-ToolJet.png",
+          "type": "LINKS",
+          "createdAt": "2025-01-27T14:51:21.993Z"
+        }
+      ]
+    },
+    {
+      "id": "COLHBABNPLMONM8KMCBBNNRMJNMEMK",
+      "title": "Himanshu mentioned in videos",
+      "type": "VIDEOS",
+      "createdAt": "2025-07-11T06:11:07.671Z",
+      "updatedAt": "2025-07-11T06:17:17.232Z",
+      "itemsCount": 5,
+      "items": [
+        {
+          "id": "a42f5f92-3090-4835-98e4-ff9cf4905319",
+          "title": "Online Judging | TechThrusters May Monthly Challenge",
+          "url": "https://www.youtube.com/live/0x5m0K-82Rw?si=9JOJYevXBBnHKWaH&t=4087",
+          "image": "https://i.ytimg.com/vi/0x5m0K-82Rw/hqdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2025-07-11T06:17:17.232Z"
+        },
+        {
+          "id": "a77843e1-6bc7-419b-8319-e0956a7594df",
+          "title": "✂️ Mary and Jacklyn like my redesign",
+          "url": "https://youtube.com/clip/UgkxzAhYPjFTCdaDzwjp-4SvA2-cuYOaWpUk?si=wV6fZQ7wLCLbhgs8",
+          "image": "https://i.ytimg.com/vi/Y9WqSeFJYyU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFyhKMA8=&rs=AOn4CLCWJn92zGcnjKQjdc2BGibfhjWEYA",
+          "type": "VIDEOS",
+          "createdAt": "2025-07-11T06:13:53.232Z"
+        },
+        {
+          "id": "edca631e-71d6-4536-a350-24cc214c459b",
+          "title": "✂️ Ryan and Mary showcase my Design, PS: I won a swag drop.",
+          "url": "https://youtube.com/clip/UgkxYNicg4-eSQaR8Xz_TGaVPM4gWW7cO_qC?si=Jl1y3TqVTWlDv0O6",
+          "image": "https://i.ytimg.com/vi/Ywe5JgzmmAU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gWigoMA8=&rs=AOn4CLAn9E0DcLeyhehbW8DHaop-QypvMg",
+          "type": "VIDEOS",
+          "createdAt": "2025-07-11T06:13:41.642Z"
+        },
+        {
+          "id": "0393be60-1c58-40ab-a7b2-889f8c9a15db",
+          "title": "✂️ I win GHW Security Opening Ceremony Surprise Surprise!",
+          "url": "https://youtube.com/clip/UgkxKnwdjeHbtt59plTPjX99kD8dfX5V7bFZ?si=b_Z7KSWHqGsW3U4B",
+          "image": "https://i.ytimg.com/vi/0ex5OyQvVQM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShVMA8=&rs=AOn4CLCJ_xQlnbUzAwLrxBi1yHtCj1350A",
+          "type": "VIDEOS",
+          "createdAt": "2025-07-11T06:13:28.448Z"
+        },
+        {
+          "id": "1e45504b-cfc8-4186-b50e-8d7df54de950",
+          "title": "✂️ The Studio Andrew replies to my comment in a video",
+          "url": "https://youtube.com/clip/UgkxUgVSUq5sBVPYRmOgJc7quel95cUj5GpQ?si=LstXbkKztqCfdQ1O",
+          "image": "https://i.ytimg.com/vi/0oL_IT4hJp8/maxresdefault.jpg",
+          "type": "VIDEOS",
+          "createdAt": "2025-07-11T06:11:08.460Z"
+        }
+      ]
+    }
+  ]
+}
