@@ -14,7 +14,14 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Himanshu Balani — Collections",
-  description: "Curated books, videos, podcasts, and articles by Himanshu Balani.",
+  description: "Collection of favorite books, videos, podcasts, and articles by Himanshu Balani.",
+  openGraph: {
+    type: "website",
+    url: "https://himanshubalani.com/collections",
+    title: "Himanshu Balani — Collections",
+    description: "Collection of favorite books, videos, podcasts, and articles by Himanshu Balani.",
+    siteName: "Himanshu Balani",
+},
 };
 
 export default function RootLayout({
