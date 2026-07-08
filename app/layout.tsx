@@ -13,16 +13,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://himanshubalani.com'), 
   title: "Himanshu Balani — Collections",
   description: "Collection of favorite books, videos, podcasts, and articles by Himanshu Balani.",
   openGraph: {
     type: "website",
-    url: "https://himanshubalani.com/collections",
+    url: "https://himanshubalani.com/collections", 
     title: "Himanshu Balani — Collections",
     description: "Collection of favorite books, videos, podcasts, and articles by Himanshu Balani.",
     siteName: "Himanshu Balani",
-},
+    images: [
+      {
+        url: '/opengraph-image.png',
+        width: 1200,
+        height: 400,
+        alt: 'Himanshu Balani — Collections Preview Image',
+      },
+    ],
+  },
 };
+
 
 export default function RootLayout({
   children,
