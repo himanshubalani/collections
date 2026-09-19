@@ -16,6 +16,15 @@
       "itemsCount": 3,
       "items": [
   {
+  "id": "KGCNEAAAQBAJ",
+  "title": "The Alignment Problem: Machine Learning and Human Values",
+  "image": "http://books.google.com/books/content?id=KGCNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "type": "BOOKS",
+  "description": "A jaw-dropping exploration of everything that goes wrong when we build AI systems and the movement to fix them. As autonomous vehicles share our streets and machine learning models replace human judgment, ensuring that these systems align with human values and ethics becomes one of the most defining stories of our time.",
+  "author": "Brian Christian",
+  "createdAt": "2026-09-18T12:53:00.000Z"
+  },
+  {
     "id": "GrYsEAAAQBAJ",
     "title": "Project Hail Mary",
     "image": "http://books.google.com/books/content?id=GrYsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,7 +47,7 @@
           "title": "Creative Selection",
           "image": "http://books.google.com/books/content?id=nntJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
           "type": "BOOKS",
-          "description": "* WALL STREET JOURNAL BESTSELLER * An insider's account of Apple's creative process during the golden years of Steve Jobs. Hundreds of millions of people use Apple products every day; several thousand work on Apple's campus in Cupertino, California; but only a handful sit at the drawing board. Creative Selection recounts the life of one of the few who worked behind the scenes, a highly-respected software engineer who worked in the final years of the Steve Jobs era—the Golden Age of Apple. Ken Kocienda offers an inside look at Apple’s creative process. For fifteen years, he was on the ground floor of the company as a specialist, directly responsible for experimenting with novel user interface concepts and writing powerful, easy-to-use software for products including the iPhone, the iPad, and the Safari web browser. His stories explain the symbiotic relationship between software and product development for those who have never dreamed of programming a computer, and reveal what it was like to work on the cutting edge of technology at one of the world's most admired companies. Kocienda shares moments of struggle and success, crisis and collaboration, illuminating each with lessons learned over his Apple career. He introduces the essential elements of innovation—inspiration, collaboration, craft, diligence, decisiveness, taste, and empathy—and uses these as a lens through which to understand productive work culture. An insider's tale of creativity and innovation at Apple, Creative Selection shows readers how a small group of people developed an evolutionary design model, and how they used this methodology to make groundbreaking and intuitive software which countless millions use every day.",
+          "description": "An insider's account of Apple’s golden era under Steve Jobs, following software engineer Ken Kocienda as he designs interfaces for the iPhone and iPad within a secretive, brilliant culture where small teams refined the groundbreaking software used by millions.",
           "author": "Ken Kocienda",
           "createdAt": "2024-08-28T06:20:35.880Z"
         },
@@ -47,7 +56,7 @@
           "title": "Hell Yeah Or No What's Worth Doing",
           "image": "https://books.google.co.in/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
           "type": "BOOKS",
-          "description": "Hell Yeah or No what's worth doing Hell Yeah or No what's worth doing Managing our time efficiently is something most of us have struggled with at some point during our personal or professional lives and so in this video I'm going to reveal the 10 principles and ideas I use to manage time as effectively as I can in my daily life. Wow ! this is so true ... i always believed in this ! coz if you're not hell yeah you will be \"hell no\" very soon which leads to \"do i have to's\" and then to Mondays ! :) Book Summary: thoughts around what's worth doing, fixing faulty thinking, and making things happen.",
+          "description": "A practical guide to time management and decision-making, exploring how to fix faulty thinking, identify what is truly worth doing, and confidently say 'hell yeah' or 'no' to maximize daily productivity and eliminate unwanted obligations.",
           "author": "Siverrs Derek",
           "createdAt": "2024-08-28T06:19:09.695Z"
         },

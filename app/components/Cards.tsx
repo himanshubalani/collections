@@ -34,21 +34,37 @@ export function BookCard({ item }: { item: Item }) {
 	const wrapperProps = hasLink ? { href: item.url!, target: "_blank", rel: "noopener noreferrer" } : {};
 	
 	return (
-		<Wrapper {...wrapperProps as any} className="group flex flex-col p-1 pb-2 rounded-xl bg-white/60 dark:bg-white/5 backdrop-blur-md border border-black/10 dark:border-white/10 hover:border-black/25 dark:hover:border-white/25 hover:bg-white/80 dark:hover:bg-white/10 transition-all duration-200 cursor-pointer active:scale-[0.98] shadow-[0_4px_12px_rgba(0,0,0,0.03)]">
-		<div className="w-full aspect-[3/4] relative rounded-lg overflow-hidden border border-black/10 dark:border-white/10 mb-3 shadow-[2px_2px_0_0_rgba(0,0,0,0.05)] dark:shadow-[2px_2px_0_0_rgba(255,255,255,0.05)] group-hover:shadow-[4px_4px_0_0_rgba(0,0,0,0.08)] dark:group-hover:shadow-[4px_4px_0_0_rgba(255,255,255,0.08)] transition-shadow bg-neutral-100 dark:bg-neutral-800 flex items-center justify-center">
-		{item.image?.startsWith("http") ? (
-			<Image src={item.image} alt={item.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300 ease-out" unoptimized />
-		) : (
-			<BookOpen className="size-8 text-neutral-400 dark:text-neutral-500 stroke-[1.5]" />
-		)}
-		</div>
-		<div className="flex flex-col min-w-0 px-0.5">
-		<span className="font-bold text-sm text-black dark:text-white truncate leading-tight mb-1 transition-colors duration-200">{item.title}</span>
-		<span className="text-xs text-neutral-600 dark:text-neutral-400 truncate font-medium transition-colors duration-200">{item.author ?? item.description}</span>
-		</div>
+		<Wrapper {...wrapperProps as any} className="relative z-10 hover:z-50 group flex flex-col p-1 pb-2 rounded-xl bg-white/60 dark:bg-white/5 backdrop-blur-md border border-black/10 dark:border-white/10 hover:border-black/25 dark:hover:border-white/25 hover:bg-white/80 dark:hover:bg-white/10 transition-all duration-200 cursor-pointer active:scale-[0.98] shadow-[0_4px_12px_rgba(0,0,0,0.03)]">
+			<div className="w-full aspect-[3/4] relative rounded-lg overflow-hidden border border-black/10 dark:border-white/10 mb-3 shadow-[2px_2px_0_0_rgba(0,0,0,0.05)] dark:shadow-[2px_2px_0_0_rgba(255,255,255,0.05)] group-hover:shadow-[4px_4px_0_0_rgba(0,0,0,0.08)] dark:group-hover:shadow-[4px_4px_0_0_rgba(255,255,255,0.08)] transition-shadow bg-neutral-100 dark:bg-neutral-800 flex items-center justify-center">
+				{item.image?.startsWith("http") ? (
+					<Image src={item.image} alt={item.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300 ease-out" unoptimized />
+				) : (
+					<BookOpen className="size-8 text-neutral-400 dark:text-neutral-500 stroke-[1.5]" />
+				)}
+			</div>
+			
+			<div className="flex flex-col min-w-0 px-0.5">
+				<span className="font-bold text-sm text-black dark:text-white truncate leading-tight mb-1 transition-colors duration-200">{item.title}</span>
+				<span className="text-xs text-neutral-600 dark:text-neutral-400 truncate font-medium transition-colors duration-200">{item.author ?? item.description}</span>
+			</div>
+
+			{/* Floating Tooltip for Book Details */}
+			<div className="absolute -top-2 left-1/2 -translate-x-1/2 -translate-y-full opacity-0 group-hover:opacity-100 transition-all duration-200 pointer-events-none z-50 bg-white/95 dark:bg-neutral-900 border border-black/10 dark:border-white/10 text-black dark:text-white text-xs px-2.5 py-1.5 rounded-lg shadow-lg text-center whitespace-normal w-48 max-w-[90vw] flex flex-col gap-0.5">
+				<span className="font-bold block border-b border-black/5 dark:border-white/5 pb-0.5 mb-0.5">
+					{item.title}
+				</span>
+				{item.description && (
+					<span className="font-medium text-neutral-600 dark:text-neutral-400 block">
+						{item.description}
+					</span>
+				)}
+			</div>
 		</Wrapper>
 	);
-}
+};
+
+
+
 
 export function ListItem({ item }: { item: Item }) {
 	const domain = getDomain(item.url, item.type, item.author);
